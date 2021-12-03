@@ -40,4 +40,5 @@ public class TestUser {
     public String toString() {
         return name+":"+birthday+":"+password;
     }
+    System.out.println("测试");
 }
